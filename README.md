@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martincalveira
+- 👋 Hi, I’m @martincalveira, Electronic Engineer (Bachelor's thesis: https://sites.google.com/view/fpgapampacpu/)
 - 👀 I’m interested in Data Analysis, Data Science, Deep Learning, Python and SQL.
 - 🌱 I’m currently learning Data Analytics and Full Stack Development.
 - 💞️ I’m looking to collaborate on Open Source Projects.
